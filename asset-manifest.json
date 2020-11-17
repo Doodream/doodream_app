@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/doodream_app/static/css/main.ab95cb1b.chunk.css",
+    "main.js": "/doodream_app/static/js/main.f3e71349.chunk.js",
+    "main.js.map": "/doodream_app/static/js/main.f3e71349.chunk.js.map",
+    "runtime-main.js": "/doodream_app/static/js/runtime-main.308ffab4.js",
+    "runtime-main.js.map": "/doodream_app/static/js/runtime-main.308ffab4.js.map",
+    "static/js/2.525c3800.chunk.js": "/doodream_app/static/js/2.525c3800.chunk.js",
+    "static/js/2.525c3800.chunk.js.map": "/doodream_app/static/js/2.525c3800.chunk.js.map",
+    "index.html": "/doodream_app/index.html",
+    "static/css/main.ab95cb1b.chunk.css.map": "/doodream_app/static/css/main.ab95cb1b.chunk.css.map",
+    "static/js/2.525c3800.chunk.js.LICENSE.txt": "/doodream_app/static/js/2.525c3800.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.308ffab4.js",
+    "static/js/2.525c3800.chunk.js",
+    "static/css/main.ab95cb1b.chunk.css",
+    "static/js/main.f3e71349.chunk.js"
+  ]
+}
